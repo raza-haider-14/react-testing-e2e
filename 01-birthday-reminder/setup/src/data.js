@@ -1,3 +1,6 @@
+// This is the same as what we have in our App.js
+// except instead of creating a function and exporting a named
+// function, we can just export default
 export default [
   {
     id: 1,
